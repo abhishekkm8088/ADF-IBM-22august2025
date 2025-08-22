@@ -11,11 +11,23 @@
 		"ls_gen2_accountKey": {
 			"value": ""
 		},
+		"LS_StorageAccount_Gen2_accountKey": {
+			"value": ""
+		},
+		"GoogleCloudStorage1_secretAccessKey": {
+			"value": ""
+		},
 		"LS_AWS_S3_properties_typeProperties_accessKeyId": {
 			"value": "AKIATHJS2RKPDTX4CVH3"
 		},
 		"ls_gen2_properties_typeProperties_url": {
 			"value": "https://abhisheksa1.dfs.core.windows.net/"
+		},
+		"LS_StorageAccount_Gen2_properties_typeProperties_url": {
+			"value": "https://abhisheksa1.dfs.core.windows.net/"
+		},
+		"GoogleCloudStorage1_properties_typeProperties_accessKeyId": {
+			"value": "GOOG1EQQO53SHVSBN6M22ZMOTCW3CMBGZ3JYNNFCVNG2WXLNSJZFFZVLVFWA3"
 		}
 	}
 }
